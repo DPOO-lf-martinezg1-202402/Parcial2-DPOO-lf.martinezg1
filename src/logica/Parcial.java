@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Parcial {
 	//me garantizan que todos los que entran son enteros
-	//me garantizan que a diferente de 0 porque si no no seria cuadratica, entonces, no debo verificar división por 0
+	//me garantizan que a diferente de 0 porque si no no seria cuadratica, entonces, no debo verificar división por 0 (2a)
 	
 	public ArrayList<Double> calcularRaices(int a, int b, int c) throws Exception{
 		
